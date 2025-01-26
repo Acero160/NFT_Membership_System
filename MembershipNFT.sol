@@ -2,18 +2,6 @@
 
 /* 
 
-    **Sistema de Membresia NFT con Acceso Exclusivo ***
-    Descripcion: Crear un sistema de membresis donde los poseedores de un NFT tienen acceso exclusivo a contenidos 
-    o beneficios (como acceso a eventos,descuentos o incluso otros NFT).
-    - Carasteristicas originale:
-    Los NFT de membresía pueden tener niveles de acceso (ej.oro, plata, bronce).
-    Integrar una funcion de "quema" del NFT para reclamar beneficios únicos.
-
-*/
-
-
-/* 
-
     *** NFT Membership System with Exclusive Access ***
     Description: Create a membership system where NFT holders have exclusive access to content 
     or benefits (such as access to events, discounts, or even other NFTs).
